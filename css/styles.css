@@ -1,0 +1,19 @@
+.bg-bz-dark{
+    background: black;
+}
+.footer-h{
+    height: 300px;
+}
+.footer-img{
+    width: 100px;
+}
+@media only screen and (max-width: 576px) {
+    .bz-footer-p-m{
+        padding: 0 !important;
+        margin: 0 !important;
+    }
+    .main-footer{
+        height: auto !important;
+        padding: 5px !important;
+    }
+}
