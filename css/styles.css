@@ -11,6 +11,9 @@
     .bz-footer-p-m{
         padding: 0 !important;
         margin: 0 !important;
+        width: 100% !important;
+        flex-direction: row !important;
+        gap: 3px !important;
     }
     .main-footer{
         height: auto !important;
